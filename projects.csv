@@ -1,0 +1,6 @@
+topic,course,name,org,url,text,tags
+Aerial Perspective Object Detection,Deep Learning,Final Project,McMaster University,https://github.com/AlbertPangilinan/SEP740,"Aerial Perspective Object Detection,Utilizing Aerial Semantic Segmentation Drone Dataset,Semantic image segmentation using machine learning (random forest, KNN, naive Bayes) and deep learning (CNN: VGG-16)","Python,Machine Learning"
+Interactive Tool for an Effective Discharge from Alternate Level of Care,Master of Engineering Design,Capstone Project,McMaster University,,test,UI/UX
+Virtual Reality Sports Game,"Augmented, Virtual, and Mixed Reality Development",Final Project,McMaster University,,test,"C#,Unity,Game Dev,VR"
+Rocket League Esports Companion App,Prototyping Web Applications,Final Project,McMaster University,https://github.com/AlbertPangilinan/SEP759,test,"Ruby,Rails,Full Stack Dev"
+Rocket League Esports Companion App,Prototyping Mobile Applications,Final Project,McMaster University,https://github.com/AlbertPangilinan/SEP758,test,"Dart,Flutter,Mobile Dev"
