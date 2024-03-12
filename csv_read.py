@@ -19,3 +19,8 @@ def get_all_projects():
 
 def get_project_by_id(project_id):
     return list(filter(lambda project: project['id'] == project_id, projects))[0]
+
+
+def get_projects_by_tag(tag):
+    print(tag.casefold())
+    return list(filter(lambda project: tag.casefold() in [tag.casefold() for tag in project['tags']], projects))

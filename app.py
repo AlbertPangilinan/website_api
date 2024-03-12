@@ -17,3 +17,8 @@ def get_all_projects():
 @app.route("/project/<project_id>")
 def get_project_by_id(project_id):
     return csv_read.get_project_by_id(int(project_id))
+
+
+@app.route("/projects/<tag>")
+def get_projects_by_tag(tag):
+    return csv_read.get_projects_by_tag(tag)
