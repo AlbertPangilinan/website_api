@@ -15,3 +15,7 @@ with open('projects.csv', newline='') as file:
 
 def get_all_projects():
     return projects
+
+
+def get_project_by_id(project_id):
+    return list(filter(lambda project: project['id'] == project_id, projects))[0]
