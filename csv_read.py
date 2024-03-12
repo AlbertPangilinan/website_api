@@ -7,5 +7,5 @@ with open('projects.csv', newline='') as file:
     for row in reader:
         projects.append(row)
 
-def get_projects():
+def get_all_projects():
     return projects
