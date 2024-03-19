@@ -1,6 +1,11 @@
 topic,course,name,org,url,text,tags
-Aerial Perspective Object Detection,Deep Learning,Final Project,McMaster University,https://github.com/AlbertPangilinan/SEP740,"Aerial Perspective Object Detection|Utilizing Aerial Semantic Segmentation Drone Dataset|Semantic image segmentation using machine learning (random forest, KNN, naive Bayes) and deep learning (CNN: VGG-16)",Python|Machine Learning
+Aerial Perspective Object Detection,Deep Learning,Final Project,McMaster University,https://github.com/AlbertPangilinan/SEP740,"Aerial Perspective Object Detection|Utilizing Aerial Semantic Segmentation Drone Dataset|Semantic image segmentation using machine learning (random forest, KNN, naive Bayes) and deep learning (CNN: VGG-16)",Python|Machine Learning|scikit-learn
 Interactive Tool for an Effective Discharge from Alternate Level of Care,Master of Engineering Design,Capstone Project,McMaster University,,test,UI/UX
 Virtual Reality Sports Game,"Augmented, Virtual, and Mixed Reality Development",Final Project,McMaster University,,test,CSharp|Unity|Game Dev|VR
 Rocket League Esports Companion App,Prototyping Web Applications,Final Project,McMaster University,https://github.com/AlbertPangilinan/SEP759,test,Ruby|Rails|Full Stack Dev
 Rocket League Esports Companion App,Prototyping Mobile Applications,Final Project,McMaster University,https://github.com/AlbertPangilinan/SEP758,test,Dart|Flutter|Mobile Dev
+Exploring Music Genre Classification using Dense Neural Networks,Computational Neuroscience,Final Project,University of Waterloo,https://github.com/AlbertPangilinan/SYDE552,test,Python|Machine Learning|TensorFlow
+3D GIS Modelling and Simulation,Advanced Geographic Information Systems,Research Project,University of Waterloo,,test,Unity|Blender|Csharp
+Tsunami Quantification and Analysis,Advanced Remote Sensing,Research Project,University of Waterloo,,test,JavaScript|Statistics
+Twitch Broadcast Overlay,,,Canadian Collegiate Rocket Soccer (CCRS),https://github.com/AlbertPangilinan/CCRS,test,JavaScript|HTML|CSS|Node.js
+Config Editor App,,,Canadian Collegiate Rocket Soccer (CCRS),https://github.com/AlbertPangilinan/CCRS-Overlay-Config,test,React|Electron|JavaScript|Node.js
